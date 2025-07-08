@@ -1,0 +1,16 @@
+Size, Type, Time(s)
+10, Sorted, 0.000005
+100, Sorted, 0.000003
+1000, Sorted, 0.000029
+10000, Sorted, 0.000315
+100000, Sorted, 0.005992
+10, Reverse, 0.000002
+100, Reverse, 0.000024
+1000, Reverse, 0.002082
+10000, Reverse, 0.183918
+100000, Reverse, 41.579471
+10, Random, 0.000003
+100, Random, 0.000011
+1000, Random, 0.000888
+10000, Random, 0.093919
+100000, Random, 16.502206
