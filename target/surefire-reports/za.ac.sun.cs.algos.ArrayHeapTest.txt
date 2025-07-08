@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: za.ac.sun.cs.algos.ArrayHeapTest
+-------------------------------------------------------------------------------
+Tests run: 17, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.071 s - in za.ac.sun.cs.algos.ArrayHeapTest
